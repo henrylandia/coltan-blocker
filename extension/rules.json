@@ -1,0 +1,56 @@
+﻿[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||google-analytics.com",
+      "resourceTypes": ["xmlhttprequest", "script", "image", "ping"]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||googletagmanager.com",
+      "resourceTypes": ["xmlhttprequest", "script", "image", "ping"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||doubleclick.net",
+      "resourceTypes": ["xmlhttprequest", "script", "image", "ping"]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||facebook.com/tr",
+      "resourceTypes": ["xmlhttprequest", "script", "image", "ping"]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||connect.facebook.net",
+      "resourceTypes": ["xmlhttprequest", "script", "image", "ping"]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "||analytics.tiktok.com",
+      "resourceTypes": ["xmlhttprequest", "script", "image", "ping"]
+    }
+  }
+]
