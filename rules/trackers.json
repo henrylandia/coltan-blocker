@@ -1,0 +1,27 @@
+﻿{
+  "trackers": [
+    "google-analytics.com",
+    "googletagmanager.com",
+    "doubleclick.net",
+    "googlesyndication.com",
+    "google-analytics.com",
+    "facebook.com/tr",
+    "connect.facebook.net",
+    "analytics.tiktok.com",
+    "ads-api.tiktok.com",
+    "hotjar.com",
+    "clarity.ms",
+    "criteo.com",
+    "criteo.net",
+    "ads.pinterest.com",
+    "ads-twitter.com",
+    "static.ads-twitter.com",
+    "bat.bing.com",
+    "amazon-adsystem.com",
+    "adsrvr.org",
+    "scorecardresearch.com",
+    "quantserve.com",
+    "outbrain.com",
+    "taboola.com"
+  ]
+}
